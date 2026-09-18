@@ -1,15 +1,13 @@
+# Git & GitHub Workshop 🚀
 
-Git & GitHub Workshop 🚀
-
-IEEE Computer Society — UCEOU
+### IEEE Computer Society — UCEOU
 
 Welcome to the official repository for the Git & GitHub Workshop organized by the IEEE Computer Society, UCEOU.
 
 This repository contains the workshop presentation, practice resources, and contribution guidelines to help participants move from using Git individually to collaborating with others and contributing to open source.
 
 ---
-
-🎯 What You'll Learn
+## 🎯 What You'll Learn
 
 The workshop focuses on taking your Git knowledge beyond "add", "commit", and "push".
 
@@ -28,7 +26,7 @@ You will learn how to:
 
 ---
 
-🔄 The Collaboration Workflow
+## 🔄 The Collaboration Workflow
 
 The core workflow covered in this workshop is:
 
@@ -56,13 +54,13 @@ The goal is not just to learn commands, but to understand how developers collabo
 
 ---
 
-📚 Workshop Resources
+## 📚 Workshop Resources
 
 Presentation
 
 The complete workshop presentation is available here:
 
-📂 ""presentation/"" (./presentation/)
+## 📂 ""presentation/"" (./presentation/)
 
 You can use the slides as a reference while practicing the concepts covered during the session.
 
@@ -71,14 +69,13 @@ Contribution Guide
 Want to make your first contribution?
 
 Start here:
-
-📖 ""CONTRIBUTING.md"" (./CONTRIBUTING.md)
+## 📖 ""CONTRIBUTING.md"" (./CONTRIBUTING.md)
 
 It explains how to fork the repository, create a branch, make changes, push your branch, and open a Pull Request.
 
 ---
 
-🛠️ Prerequisites
+## 🛠️ Prerequisites
 
 You don't need to be an open-source expert to contribute.
 
@@ -94,7 +91,7 @@ If you attended Day 1, you already have the fundamentals needed to start with th
 
 ---
 
-🌱 Your First Contribution
+## 🌱 Your First Contribution
 
 You don't need to build a huge feature to contribute to open source.
 
@@ -114,7 +111,7 @@ Make your contribution meaningful rather than creating changes just for the sake
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 We encourage workshop participants to practice the complete GitHub collaboration workflow by contributing to this repository.
 
@@ -144,7 +141,7 @@ Merge
 
 ---
 
-👥 Contributors
+## 👥 Contributors
 
 This repository is also a place to recognize everyone who contributes during and after the workshop.
 
@@ -154,7 +151,7 @@ Thank you to everyone who takes the time to improve this project! ❤️
 
 ---
 
-🏛️ Organized By
+## 🏛️ Organized By
 
 IEEE Computer Society — UCEOU
 
@@ -162,7 +159,7 @@ University College of Engineering, Osmania University
 
 ---
 
-📌 Why This Repository Exists
+## 📌 Why This Repository Exists
 
 Git becomes much more powerful when you stop using it only for your own projects.
 
@@ -182,7 +179,7 @@ This repository is designed to give you a small, practical environment to experi
 
 ---
 
-📜 License
+## 📜 License
 
 This project is distributed under the license included in this repository.
 
